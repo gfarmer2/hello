@@ -1,5 +1,5 @@
 /**
- * Author: Gavin Farmer
+ * Author: Gavin Isaac Farmer
  * Date: 8-17-2020
  * 
  * Hello World Program
